@@ -1,0 +1,11 @@
+All the necessary libraries that need to be installed to run the code:
+Python version: 3.9.16OpenCV (cv2) version: 4.7.0
+Pandas version: 2.0.0
+NumPy version: 1.23.5
+Matplotlib version: 3.7.1
+PyTorch (torch) version: 2.1.0.dev20230413
+Torchvision version: 0.16.0.dev20230413
+PIL version: 9.4.0
+tqdm version: 4.65.0
+Dataset:
+https://drive.google.com/drive/folders/1MKKUG5QuCdxO5p_a7ZJt9gHSJs1S_cX4?usp=share_link
