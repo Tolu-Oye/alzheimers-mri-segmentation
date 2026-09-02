@@ -16,10 +16,10 @@ This project bridges theoretical computer vision models and practical clinical a
 The codebase is organized as follows to support clear separation between raw software code, datasets, and academic documentation:
 
 ```text
-├── data/          # Structural MRI datasets and training cohorts
-├── doc/           # Academic research paper detailing our novel methodologies
+├── data/          # Link to structural MRI datasets and training cohorts
+├── doc/           # Academic research paper 
 ├── presentation/  # Technical slide decks presenting project outcomes and architecture
-├── sources/       # Grounding literature, inspiration papers, and clinical reference materials
+├── sources/       # Grounding literature and inspiration papers
 └── src/           # Main source directory containing Python implementations
     ├── Alzheimer's Disease Classification.ipynb   # Multi-class diagnostic classification model
     ├── Hippocampus Segmentation.ipynb             # U-Net/U-Net++ segmentation pipelines
