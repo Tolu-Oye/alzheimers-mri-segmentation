@@ -80,7 +80,7 @@ As specified in `src/requirements.txt`:
 ### Installation:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/alzheimers-mri-segmentation.git
+git clone https://github.com/Tolu-Oye/alzheimers-mri-segmentation.git
 cd alzheimers-mri-segmentation
 
 # Install dependencies
@@ -119,4 +119,4 @@ If you are using this code or referencing our roadmap, please cite our correspon
 **Contact:**  
 **Toluwani Ayooluwa Oyewusi**  
 *Department of Computer Science*  
-*Email:* [Your Email] / [Your University Email]
+*Email:* toyewusi@ncat.edu
