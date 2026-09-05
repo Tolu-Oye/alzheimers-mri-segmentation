@@ -1,9 +1,5 @@
 # AI-Driven Alzheimer's Disease Diagnosis: Multi-Criteria Deep Learning Framework for Hippocampal Segmentation and Clinical Classification
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9.16](https://img.shields.io/badge/python-3.9.16-blue.svg)](https://www.python.org/downloads/release/python-3916/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C.svg?style=flat&logo=PyTorch)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00.svg?style=flat&logo=TensorFlow)](https://www.tensorflow.org/)
 
 This repository contains the core software pipeline and academic assets for an advanced, deep learning-based diagnostic framework aimed at identifying Alzheimer's Disease (AD) using structural brain Magnetic Resonance Imaging (MRI) data. 
 
@@ -60,22 +56,6 @@ To complement structural segmentation, this module implements a complete deep le
     *   `tensorflow` & `tensorflow_addons` (InceptionV3 model loading, fine-tuning, and metric evaluations)
 
 ---
-
-## 🛠️ Requirements & Setup Guide
-
-To run the notebooks and reproduce the results, ensure you have **Python 3.9.16** installed. You can install all required libraries using the provided `requirements.txt` file.
-
-### Complete Software Dependencies:
-As specified in `src/requirements.txt`:
-*   **Python version:** `3.9.16`
-*   **OpenCV (cv2) version:** `4.7.0`
-*   **Pandas version:** `2.0.0`
-*   **NumPy version:** `1.23.5`
-*   **Matplotlib version:** `3.7.1`
-*   **PyTorch (torch) version:** `2.1.0.dev20230413`
-*   **Torchvision version:** `0.16.0.dev20230413`
-*   **PIL version:** `9.4.0`
-*   **tqdm version:** `4.65.0`
 
 ### Installation:
 ```bash
