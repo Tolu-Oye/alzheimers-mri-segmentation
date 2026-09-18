@@ -28,7 +28,7 @@ The codebase is organized as follows to support clear separation between raw sof
 
 ### 1. Hippocampus Segmentation (`src/Hippocampus Segmentation.ipynb`)
 This module proposes a high-precision framework for identifying Alzheimer's disease using U-Net neural network topologies. 
-*   **Methodology:** We design and implement standard **3D U-Net** and advanced nested **U-Net++** architectures. These models are engineered to isolate and segment the human hippocampus—a critical structural brain biomarker known to undergo severe atrophy in the earliest stages of AD.
+*   **Methodology:** We design and implement the standard **3D U-Net** and advanced nested **U-Net++** architectures. These models are engineered to isolate and segment the human hippocampus—a critical structural brain biomarker known to undergo severe atrophy in the earliest stages of AD.
 *   **Objective:** To enhance the segmentation accuracy and structural boundary detection of the hippocampus, reducing manual radiological tracing bottlenecks.
 *   **Framework:** Built on **PyTorch**.
 *   **Libraries Utilized:**
