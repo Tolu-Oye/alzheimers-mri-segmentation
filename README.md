@@ -88,7 +88,7 @@ This repository serves as the baseline software foundation for my ongoing doctor
 
 ---
 
-## 🤝 Citation and Academic Collaboration
+## 🤝 Citations and Academic Collaboration
 
 This repository is maintained in the spirit of open science. We welcome inquiries regarding academic collaboration, clinical testing, or methodological extensions.
 
