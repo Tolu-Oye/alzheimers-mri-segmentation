@@ -1,4 +1,5 @@
 # AI-Driven Alzheimer's Disease Diagnosis: Multi-Criteria Deep Learning Framework for Hippocampal Segmentation and Clinical Classification
+AI-Driven Alzheimer's Disease Diagnosis: Multi-Criteria Deep Learning Framework for Hippocampal Segmentation and Clinical Classification
 
 
 This repository contains the core software pipeline and academic assets for an advanced, deep learning-based diagnostic framework aimed at identifying Alzheimer's Disease (AD) using structural brain Magnetic Resonance Imaging (MRI) data. 
