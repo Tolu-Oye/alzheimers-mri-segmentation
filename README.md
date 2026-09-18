@@ -7,7 +7,7 @@ This project bridges theoretical computer vision models and practical clinical a
 
 ---
 
-## 📂 The Repository Structure
+## 📂 Repository Structure
 
 The codebase is organized as follows to support clear separation between raw software code, datasets, and academic documentation:
 
