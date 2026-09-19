@@ -28,7 +28,7 @@ The codebase is organized as follows to support clear separation between raw sof
 
 ### 1. Hippocampus Segmentation (`src/Hippocampus Segmentation.ipynb`)
 This module proposes a high-precision framework for identifying Alzheimer's disease using U-Net neural network topologies. 
-*   **Methodology:** We design and implement the standard **3D U-Net** and advanced nested **U-Net++** architectures. These models are engineered to isolate and segment the human hippocampus—a critical structural brain biomarker known to undergo severe atrophy in the earliest stages of AD.
+*   **Methodology:** We design and implement the standard **2D U-Net** and advanced nested **U-Net++** architectures. These models are engineered to isolate and segment the human hippocampus—a critical structural brain biomarker known to undergo severe atrophy in the earliest stages of AD.
 *   **Objective:** To enhance the segmentation accuracy and structural boundary detection of the hippocampus, reducing manual radiological tracing bottlenecks.
 *   **Framework:** Built on **PyTorch**.
 *   **Libraries Utilized:**
@@ -71,7 +71,7 @@ pip install -r src/requirements.txt
 
 ## 🚀 Active Project Goals & Ph.D. Research Roadmap
 
-This repository serves as the baseline software foundation for my ongoing doctoral research. Moving forward, my primary scientific milestones and project goals are:
+This repository serves as the baseline software foundation for my ongoing research. Moving forward, my primary scientific milestones and project goals are:
 
 *   **Phase 1: Ingest Clinical-Grade Registries (Active Setup)**  
     We are currently developing modular PyTorch data-loaders to ingest raw 3D T1-weighted MPRAGE scans from our newly approved federal and institutional databases:
