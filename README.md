@@ -69,32 +69,6 @@ pip install -r src/requirements.txt
 
 ---
 
-## 🚀 Active Project Goals & Ph.D. Research Roadmap
-
-This repository serves as the baseline software foundation for my ongoing research. Moving forward, my primary scientific milestones and project goals are:
-
-*   **Phase 1: Ingest Clinical-Grade Registries (Active Setup)**  
-    We are currently developing modular PyTorch data-loaders to ingest raw 3D T1-weighted MPRAGE scans from our newly approved federal and institutional databases:
-    *   **ADNI (Alzheimer's Disease Neuroimaging Initiative)**
-    *   **OASIS-1 and OASIS-2 (Open Access Series of Imaging Studies)**
-*   **Phase 2: Standardized Metric Validation**  
-    We plan to run our U-Net/U-Net++ segmentation pipelines on these massive cohorts, calculating standard clinical-grade benchmarks against manual expert-traced ground-truths:
-    *   *Dice Similarity Coefficient (DSC)* (Aiming for $\ge 0.88$)
-    *   *95th percentile Hausdorff Distance (HD95)* (Aiming for $\le 2.0\text{ mm}$)
-*   **Phase 3: Multi-Criteria Decision-Making (MCDM) Integration**  
-    We will integrate our peer-reviewed **Multi-Criteria Decision-Making (MCDM)** evaluation models directly into the pipeline. This mathematical engine will automatically analyze and rank deep learning configurations based on the optimal balance between segmentation accuracy, parameter footprint, GPU VRAM constraints, and edge computational latency.
-*   **Phase 4: Clinical Interface Web Portal**  
-    We plan to build a lightweight, secure web application (using Streamlit or Gradio) that will allow independent clinical partners and academic radiologists to drop in anonymous 3D MRI scans and immediately inspect automated hippocampal segmentations and volumetric reports.
-
----
-
-## 🤝 Citations and Academic Collaboration
-
-This repository is maintained in the spirit of open science. We welcome inquiries regarding academic collaboration, clinical testing, or methodological extensions.
-
-If you are using this code or referencing our roadmap, please cite our corresponding publications:
-1.  **"Multi-Criteria Evaluation Framework for Deep Learning Architectures in Medical Image Segmentation"**
-2.  **"Integrated Fuzzy MCDM Framework for Evaluating AI-Assisted Healthcare Delivery Models for Aging Populations"**
 
 **Contact:**  
 **Toluwani Ayooluwa Oyewusi**  
