@@ -71,6 +71,7 @@ pip install -r src/requirements.txt
 
 
 **Contact:**  
-**Toluwani Ayooluwa Oyewusi**  
+**Toluwani Ayooluwa Oyewusi**
+*PhD Student*
 *Department of Computer Science*  
 *Email:* toyewusi@ncat.edu
